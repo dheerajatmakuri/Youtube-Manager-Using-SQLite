@@ -1,9 +1,8 @@
-# Youtube-Manager-Using-SQLite
-# YouTube Manager App with SQLite Database
+# Youtube-Manager-Using-SQLite-Database
 
 ## Overview
 
-This Python script provides a simple command-line application to manage YouTube videos using an SQLite database. It allows you to list, add, update, and delete video records.
+This Python script provides a simple command-line application to manage YouTube videos using an SQLite database. It lets you list, add, update, and delete video records.
 
 ## Features
 
@@ -23,7 +22,7 @@ The application uses an SQLite database named `youtube_manager.db` with a single
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3. x
 - `sqlite3` library (included in the Python standard library)
 
 ## How to Use
